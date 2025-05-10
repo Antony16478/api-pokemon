@@ -4,12 +4,7 @@ Para esta tarea decidí trabajar con la PokeAPI, una API pública que permite co
 
 # *¿Qué dificultades encontraste y cómo las resolviste?*
 Una de las cosas que más me costó fue entender cómo venía la información en el JSON. Algunas partes venían dentro de listas o anidadas en otras secciones, como los tipos de Pokémon, y eso me                                                                           
-confundía al principio. Para resolverlo, creé clases específicas en C# que reflejaran esa estructura, ayudándome de ejemplos que encontré y ajustándolos según lo que necesitaba.
-
-Otro detalle fue que, cuando hacía la petición a la API, la interfaz se congelaba por unos segundos. Me di cuenta de que eso pasaba porque la llamada no era asíncrona. Después de investigar,                                                                                 
-usé async y await para que el programa no se trabara mientras esperaba la respuesta.
-
-También me tomó algo de tiempo aprender cómo cargar la imagen del Pokémon directamente desde internet en un PictureBox,                                                                                                                                                         pero al final logré mostrarla usando PictureBox.Load() con la URL que venía en los datos de la API.
+confundía al principio. Para resolverlo, creé clases específicas en C# que reflejaran esa estructura, ayudándome de ejemplos que encontré y ajustándolos según lo que necesitaba. Otro detalle                                                                                 fue que, cuando hacía la petición a la API, la interfaz se congelaba por unos segundos. Me di cuenta de que eso pasaba porque la llamada no era asíncrona. Después de investigar, usé async y                                                                                await para que el programa no se trabara mientras esperaba la respuesta. También me tomó algo de tiempo aprender cómo cargar la imagen del Pokémon directamente desde internet en un PictureBox,                                                                                  pero al final logré mostrarla usando PictureBox.Load() con la URL que venía en los datos de la API.
 
 # *¿Qué aprendiste con esta tarea?*
 Aprendí a consumir una API REST desde una aplicación Windows Forms, y a trabajar con peticiones HTTP usando HttpClient. También entendí cómo deserializar datos JSON en                                                                                                    
