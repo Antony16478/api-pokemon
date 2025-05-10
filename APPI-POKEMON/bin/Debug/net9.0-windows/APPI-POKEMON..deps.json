@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "APPI-POKEMON./1.0.0": {
+        "runtime": {
+          "APPI-POKEMON..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APPI-POKEMON./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

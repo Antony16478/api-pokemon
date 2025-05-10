@@ -1,0 +1,4 @@
+Nombre: pidgey
+Altura: 3
+Peso: 18
+Tipos: normal, flying

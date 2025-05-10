@@ -1,0 +1,32 @@
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..exe
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..deps.json
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..runtimeconfig.json
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..pdb
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..csproj.GenerateResource.cache
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..AssemblyInfoInputs.cache
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..AssemblyInfo.cs
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..csproj.CoreCompileInputs.cache
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\refint\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..pdb
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..genruntimeconfig.cache
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\ref\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\PRACTICA APIS\APPI-POKEMON\obj\Debug\net9.0-windows\PokeApiWinForms.Form1.resources
+C:\Users\Efrai\Desktop\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..exe
+C:\Users\Efrai\Desktop\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..deps.json
+C:\Users\Efrai\Desktop\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..runtimeconfig.json
+C:\Users\Efrai\Desktop\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\APPI-POKEMON\bin\Debug\net9.0-windows\APPI-POKEMON..pdb
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\PokeApiWinForms.Form1.resources
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..csproj.GenerateResource.cache
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..AssemblyInfoInputs.cache
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..AssemblyInfo.cs
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..csproj.CoreCompileInputs.cache
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\refint\APPI-POKEMON..dll
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..pdb
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\APPI-POKEMON..genruntimeconfig.cache
+C:\Users\Efrai\Desktop\APPI-POKEMON\obj\Debug\net9.0-windows\ref\APPI-POKEMON..dll
