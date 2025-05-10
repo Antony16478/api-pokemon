@@ -1,5 +1,5 @@
 📝 Informe de la Tarea – Consumo de API con Windows Forms en C#
-### *¿Qué API usaste?*
+# *¿Qué API usaste?*
 Para esta tarea decidí trabajar con la PokeAPI, una API pública que permite consultar información de los Pokémon, como su nombre, altura, peso, tipos y hasta su imagen oficial. Lo bueno de esta API es que no requiere autenticación ni llaves especiales, lo cual facilita mucho las pruebas.
 
 ¿Qué dificultades encontraste y cómo las resolviste?
